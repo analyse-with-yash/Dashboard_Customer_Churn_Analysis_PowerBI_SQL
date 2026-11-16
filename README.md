@@ -1,8 +1,6 @@
 # Dashboard_Customer_Churn_Analysis_PowerBI_SQL
 Customer Churn Analysis using SQL and Power BI DirectQuery to identify customer behavior, analyze churn patterns, evaluate retention rates, and generate actionable business insights to improve customer retention and reduce customer attrition.
 
-# Customer Churn Analysis Dashboard | SQL & Power BI
-
 An interactive **Power BI dashboard** built using **SQL and DirectQuery** to analyze **7,043 customer records** and generate meaningful business insights through data visualization and reporting.
 
 ## 📌 Project Overview
