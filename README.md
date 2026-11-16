@@ -58,6 +58,7 @@ The dashboard transforms customer data into actionable insights to identify chur
 - **DAX**
 - **Data Analysis**
 - **Data Visualization**
+- **Direct Query**
 - **KPI Analysis**
 
 ## 💡 Skills Demonstrated
